@@ -49,3 +49,4 @@
 ---  
 
 *(Этот репозиторий — как музейный экспонат. Не трогайте код, а то развалится.)*
+![screencapture-file-C-Users-timo-Downloads-paranormal-studio-github-io-main-paranormal-studio-github-io-main-index-html-2025-05-21-21_57_54](https://github.com/user-attachments/assets/5a1df9d2-7afd-433a-bfb3-c7bfe825aeb9)
